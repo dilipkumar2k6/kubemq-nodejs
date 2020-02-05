@@ -1,0 +1,11 @@
+{
+  "name": "kubemq-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/dilipkumar2k6/kubemq-nodejs.git",
+  "author": "dilipkumar2k6 <dilip.kumar2k6@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "kubemq-nodejs": "^1.0.4"
+  }
+}
